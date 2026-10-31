@@ -39,6 +39,7 @@ The NFC in your phone can produce up to 3.3V, the badge takes the energy produce
 
 ## The gallery
 <img width="1347" height="762" alt="Screenshot 2026-10-23 163651" src="https://github.com/user-attachments/assets/146941f8-0977-4804-9914-f5a3779f86fe" />
+<img width="548" height="737" alt="Screenshot 2026-10-23 180241" src="https://github.com/user-attachments/assets/eacee640-3390-49c6-97b4-6d1044e3c03c" />
 <img width="551" height="700" alt="Screenshot 2026-10-30 014658" src="https://github.com/user-attachments/assets/e1f7c061-80ae-460d-98df-4c11105d63d6" />
 <img width="561" height="696" alt="Screenshot 2026-10-30 014704" src="https://github.com/user-attachments/assets/31a514e6-bcf1-4544-bfc8-47fa5b2719fc" />
 <img width="806" height="998" alt="Screenshot 2026-10-30 015357" src="https://github.com/user-attachments/assets/d07a71d9-8ef6-40b8-84aa-b8848e688e0f" />
