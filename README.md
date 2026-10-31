@@ -28,6 +28,10 @@ I wanted to make something I had never really seen done before, a PCB badge that
 ## How it works
 The NFC in your phone can produce up to 3.3V, the badge takes the energy produced and stores it in capacitors within the badge. These act almost like mini batteries meaning that the amount of power required to change the pixels on the E-Ink display can stay consistent for the amount of time required to render the image. Images are transmitted and streamed to the badge via NFC to the inbuilt low power micro controller. It then translates those signals and sends them on to the dedicated E-Ink display driver and then onto the display.
 
+## BOM 
+<img width="1442" height="303" alt="image" src="https://github.com/user-attachments/assets/71333a2e-4b32-4648-b03e-1d25e7ac705f" />
+
+
 ## What I've learnt:
 - PCB design
 - Graphic design
