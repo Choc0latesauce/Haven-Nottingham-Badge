@@ -4,7 +4,8 @@ Extra special badges for our first game jam!
 <img width="128" height="90" alt="Robyn logo" src="https://github.com/user-attachments/assets/7177b8e9-0a33-4346-bf0b-ec0220144143" />
 
 ## DISCLAIMER ⚠️
-I can't believe I have to put this but people always seem to think my writing is AI lol, it isn't, I wrote this all myself!!
+1. I can't believe I have to put this but people always seem to think my writing is AI lol, it isn't, I wrote this all myself!!
+2. Due to budget constraints and component shortages I have had to produce just a PCB badge, I still did a lot of work on the electronic badge so I want to show that off. However, the project I am shipping is just the PCB part of this project.
 
 ## Why am I making this?
 I'm working together with Hack Club to host Haven Nottingham, Nottingham's first youth game jam. 
